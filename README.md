@@ -17,5 +17,5 @@
 - [ ] 즐겨찾기 화면 표시 기능
 
 ## 참고 사이트
-- [UI에서 파일탐색기 실행][1]
-[1]:https://m.blog.naver.com/allbino/221846653054 
+- [UI에서 파일탐색기 실행](https://m.blog.naver.com/allbino/221846653054)
+- [하위 디렉토리 내 모든 파일 명 검색하기](https://lunikism.com/entry/C-%EB%94%94%EB%A0%89%ED%86%A0%EB%A6%AC-%EB%82%B4-%EB%AA%A8%EB%93%A0-%ED%8C%8C%EC%9D%BC-%EA%B2%80%EC%83%89DirectoryGetFiles)
