@@ -17,7 +17,19 @@
 - [ ] 즐겨찾기 화면 표시 기능
 
 ## 참고 사이트
-- [UI에서 파일탐색기 실행](https://m.blog.naver.com/allbino/221846653054)
-- [하위 디렉토리 내 모든 파일 명 검색하기](https://lunikism.com/entry/C-%EB%94%94%EB%A0%89%ED%86%A0%EB%A6%AC-%EB%82%B4-%EB%AA%A8%EB%93%A0-%ED%8C%8C%EC%9D%BC-%EA%B2%80%EC%83%89DirectoryGetFiles)
-- [즐겨찾기 폴더 생성 기능](https://devkimgoon.tistory.com/45)
-- [여러개의 확장명을 가진 파일들을 검색하기](https://code-examples.net/ko/q/35d223)
+- [UI에서 파일탐색기 실행][1]
+- [하위 디렉토리 내 모든 파일 명 검색하기][2]
+- [즐겨찾기 폴더 생성 기능][3]
+- [여러개의 확장명을 가진 파일들을 검색하기][4]
+- [파일 정보 가져오기][5]
+
+
+[1]:https://m.blog.naver.com/allbino/221846653054
+
+[2]:https://lunikism.com/entry/C-%EB%94%94%EB%A0%89%ED%86%A0%EB%A6%AC-%EB%82%B4-%EB%AA%A8%EB%93%A0-%ED%8C%8C%EC%9D%BC-%EA%B2%80%EC%83%89DirectoryGetFiles
+
+[3]:https://devkimgoon.tistory.com/45
+
+[4]:https://code-examples.net/ko/q/35d223
+
+[5]:https://hijuworld.tistory.com/68
