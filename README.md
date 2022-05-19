@@ -24,6 +24,7 @@
 - [여러개의 확장명을 가진 파일들을 검색하기][4]
 - [파일 정보 가져오기][5]
 - [특정 파일 바로가기 만들기][6]
+- [버튼 동적으로 생성하기][7]
 
 
 [1]:https://m.blog.naver.com/allbino/221846653054
@@ -37,3 +38,5 @@
 [5]:https://hijuworld.tistory.com/68
 
 [6]:https://hvyair.tistory.com/43
+
+[7]:https://afsdzvcx123.tistory.com/entry/C-%EC%9C%88%ED%8F%BC-%EC%9C%88%ED%8F%BC-%EB%B2%84%ED%8A%BC-%EB%8F%99%EC%A0%81%EC%9C%BC%EB%A1%9C-%EC%83%9D%EC%84%B1%ED%95%98%EA%B8%B0Dynamic-Button
