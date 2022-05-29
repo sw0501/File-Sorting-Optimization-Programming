@@ -27,6 +27,7 @@
 - [버튼 동적으로 생성하기][7]
 - [즐겨찾기 폴더 정렬 기준 설정하기][8]
 - [특정 폴더 열기][9]
+- [새 윈도우 폼 열기][10]
 
 ### 문제점
 - Form을 여러개 띄우는 방식 / 하나의 Form에서 모든 정보 처리
@@ -50,3 +51,5 @@
 [8]:https://jsix.tistory.com/1132
 
 [9]:https://mintandcompany.tistory.com/entry/%EC%99%B8%EB%B6%80%EC%9D%91%EC%9A%A9%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%A8-%EC%8B%A4%ED%96%89%ED%95%98%EA%B8%B0-ProcessStart-%EB%A9%94%EC%84%9C%EB%93%9C
+
+[10]:https://mainia.tistory.com/4231
