@@ -9,8 +9,8 @@
 - [X] 디렉토리 검색 기능
 - [X] 정렬 기능
 - [X] 필터링 기능
-- [ ] 파일 표시 기능
-- [ ] 파일 선택 기능
+- [X] 파일 표시 기능
+- [X] 파일 선택 기능
 - [X] 즐겨찾기 폴더 추가 기능
 - [X] 즐겨찾기 내 바로가기 추가
 - [ ] 카테고리 생성 기능
@@ -26,6 +26,7 @@
 - [특정 파일 바로가기 만들기][6]
 - [버튼 동적으로 생성하기][7]
 - [즐겨찾기 폴더 정렬 기준 설정하기][8]
+- [특정 폴더 열기][9]
 
 
 [1]:https://m.blog.naver.com/allbino/221846653054
@@ -43,3 +44,5 @@
 [7]:https://afsdzvcx123.tistory.com/entry/C-%EC%9C%88%ED%8F%BC-%EC%9C%88%ED%8F%BC-%EB%B2%84%ED%8A%BC-%EB%8F%99%EC%A0%81%EC%9C%BC%EB%A1%9C-%EC%83%9D%EC%84%B1%ED%95%98%EA%B8%B0Dynamic-Button
 
 [8]:https://jsix.tistory.com/1132
+
+[9]:https://mintandcompany.tistory.com/entry/%EC%99%B8%EB%B6%80%EC%9D%91%EC%9A%A9%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%A8-%EC%8B%A4%ED%96%89%ED%95%98%EA%B8%B0-ProcessStart-%EB%A9%94%EC%84%9C%EB%93%9C
